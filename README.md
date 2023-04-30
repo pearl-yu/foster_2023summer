@@ -1,1 +1,1 @@
-# foster_2023summer
+The notebook looks at the churn prediction case.
